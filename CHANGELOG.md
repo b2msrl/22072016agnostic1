@@ -1,6 +1,6 @@
 # Changelog
 
-All Notable changes to `@@@package_name` will be documented in this file
+All Notable changes to `22072016agnostic1` will be documented in this file
 
 ## alpha - @@@data
 

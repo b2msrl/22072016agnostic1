@@ -39,7 +39,7 @@ Table of Contents
 This package can be installed through Composer.
 
 ``` bash
-composer require @@@vendor/@@@package_name
+composer require padosoft/22072016agnostic1
 ```
 
 # Usage
@@ -63,7 +63,7 @@ If you discover any security related issues, please email  instead of using the 
 
 # API Documentation
 
-Please see API documentation at http://@@@organization.github.io/@@@package-name
+Please see API documentation at http://b2msrl.github.io/@@@package-name
 
 # Credits
 
@@ -77,21 +77,21 @@ Padosoft is a software house based in Florence, Italy. Specialized in E-commerce
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/@@@vendor/@@@package_name.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/padosoft/22072016agnostic1.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/@@@vendor/@@@package_name/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/@@@vendor/@@@package_name.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/@@@vendor/@@@package_name.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/@@@vendor/@@@package_name.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/padosoft/22072016agnostic1/master.svg?style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/padosoft/22072016agnostic1.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/padosoft/22072016agnostic1.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/padosoft/22072016agnostic1.svg?style=flat-square
 [ico-sensiolab]: https://insight.sensiolabs.com/projects/@@@sensiolab/small.png
 [ico-agnostic]: https://img.shields.io/badge/PHP-Framework%20agnostic-4F5B93.svg?style=flat-square
-[ico-hhvm]: http://hhvm.h4cc.de/badge/@@@vendor/@@@package_name.svg
+[ico-hhvm]: http://hhvm.h4cc.de/badge/padosoft/22072016agnostic1.svg
 
 
-[link-packagist]: https://packagist.org/packages/@@@vendor/@@@package_name
-[link-travis]: https://travis-ci.org/@@@vendor/@@@package_name
-[link-scrutinizer]: https://scrutinizer-ci.com/g/@@@vendor/@@@package_name/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/@@@vendor/@@@package_name
-[link-downloads]: https://packagist.org/packages/@@@vendor/@@@package_name
+[link-packagist]: https://packagist.org/packages/padosoft/22072016agnostic1
+[link-travis]: https://travis-ci.org/padosoft/22072016agnostic1
+[link-scrutinizer]: https://scrutinizer-ci.com/g/padosoft/22072016agnostic1/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/padosoft/22072016agnostic1
+[link-downloads]: https://packagist.org/packages/padosoft/22072016agnostic1
 [link-sensiolab]: https://insight.sensiolabs.com/projects/@@@sensiolabs
-[link-hhvm]: http://hhvm.h4cc.de/package/@@@vendor/@@@package_name
+[link-hhvm]: http://hhvm.h4cc.de/package/padosoft/22072016agnostic1

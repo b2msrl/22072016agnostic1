@@ -1,15 +1,15 @@
 {
-    "name": "@@@vendor/@@@package_name",
-    "description": "@@@package_description",
-    "keywords" : [@@@keywords],
+    "name": "padosoft/22072016agnostic1",
+    "description": "asd",
+    "keywords" : ["asd"],
     "type" : "library",
-    "homepage":"https://github.org/@@@vendor/@@@package_name/",
+    "homepage":"https://github.org/padosoft/22072016agnostic1/",
     "license" : "MIT",
     "authors" : [
     	{
-    		"name" : "@@@author",
-    		"email" : "@@@emailauthor",
-    		"homepage" : "@@@siteauthor",
+    		"name" : "Padosoft",
+    		"email" : "helpdesk@padosoft.com",
+    		"homepage" : "http://www.padosoft.com",
     		"role" : "Developer"
     	}
     ],
@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Padosoft\\@@@package_name\\": "src"
+            "Padosoft\\22072016agnostic1\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Padosoft\\@@@package_name\\Test\\": "tests"
+            "Padosoft\\22072016agnostic1\\Test\\": "tests"
         }
     },
     "extra": {
